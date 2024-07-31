@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 
-! Title: Custom Blocklist
+! Title: Bad Ammo Sites
 ! Last modified: 2024-07-31
 ! Expires: 365 days (update frequency)
 ! Homepage: https://github.com/bluesky509/denylist
