@@ -4,7 +4,7 @@ Filters for blocking known bad sites.
 
 Should be compatible with uBlock Origin, AdBlock, etc.
 
-Example for adding a list to your filter lists:
+Select the list you want and copy the raw file link. Example for adding a list to your filter lists:
 
 https://raw.githubusercontent.com/bluesky509/denylist/main/badammo.txt
 
