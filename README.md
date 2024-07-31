@@ -21,4 +21,3 @@ I'm not an expert at block rules so mainly blocking entire urls/sites.
 - https://github.com/genediazjr/nopelist
 - https://github.com/AdguardTeam/FiltersRegistry
 - https://github.com/yokoffing/filterlists
-- 
