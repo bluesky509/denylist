@@ -1,0 +1,23 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: Custom Blocklist
+! Last modified: 2024-07-31
+! Expires: 365 days (update frequency)
+! Homepage: https://github.com/bluesky509/denylist
+! This URL: https://raw.githubusercontent.com/bluesky509/clickbait/master/badammo.txt
+! License: https://github.com/bluesky509/clickbait/blob/master/LICENSE.txt
+
+nassamory.com
+honorammoshop.com
+houseoffirearmss.com
+truarmory.com
+shootarillusions.com
+federalammunitions.com
+meritammoshop.com
+mandngunshop.com
+ammunitionweapons.com
+topammomag.com
+ammodepotma.com
+southerndefense.com
+palmetoammunition.com
+fadaofhope.com
